@@ -4,4 +4,7 @@
 
 #pragma once
 
+#include <iostream>
+#include <list>
 
+typedef char BYTE;
